@@ -76,7 +76,7 @@
 // let str = 'ab-cd-ef'//task 16
 // console.log(str.split('-'))//['ab''cd''ef']
 // console.log(str.split('-',2))//['ab','cd']
-// console.log(str.split(''))//['a','b','-','c','d','-','e','f'
-// console.log(str.split('',3))//'a','b','-'
+// console.log(str.split(''))//['a','b','-','c','d','-','e','f']
+// console.log(str.split('',3))//['a','b','-']
 // let str2 = '12345'
-// console.log(str2.split(''))//'1','2','3','4','5'
+// console.log(str2.split(''))//['1','2','3','4','5']
